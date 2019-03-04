@@ -1,4 +1,4 @@
-# SURVEY ON CO-SIMULATION
+# Survey on Co-Simulation
 This repository contains the data used in the paper "An Empirical Survey on Co-Simulation: Promising Standards, Challenges and Research Needs"
 
 **Abstract**:
