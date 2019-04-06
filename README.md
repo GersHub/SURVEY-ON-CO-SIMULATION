@@ -1,8 +1,8 @@
 # Survey on Co-Simulation
 This repository contains the data used in the paper "An Empirical Survey on Co-Simulation: Promising Standards, Challenges and Research Needs" ([Link to the Paper](https://www.sciencedirect.com))
 
-The questionnaire can be found here: [Survey](Survey)  
-The results can be found here: [Data](Data)
+The questionnaire can be found [here](Survey).  
+The results can be found [here](Data).
 
 **Abstract**:
 
